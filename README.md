@@ -1,7 +1,9 @@
 # Olá, eu sou [Gabriel R. Pires] 👋
 
 Estudante de Engenharia de Computação no IFSP Piracicaba.
+
 Apaixonado por redes, desenvolvimento de software e segurança.
+
 Inglês avançado — aprendo diretamente da documentação oficial.
 
 ## 🛠️ Tecnologias que uso
